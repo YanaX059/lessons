@@ -1,0 +1,29 @@
+/* Скидання стилів */
+@import url("reset.css");
+
+/* Основні стилі */
+
+p {
+  color: red;
+}
+
+li {
+  color: darkmagenta;
+}
+
+h1,
+h4 {
+  color: rgb(53, 10, 90);
+}
+
+.text {
+  color: rgb(16, 16, 178);
+}
+
+.element {
+  border: 1px solid greenyellow;
+}
+
+[href="https://uk.wikipedia.org/wiki/%D0%A0%D0%B0%D0%BB%D1%96_(%D1%81%D0%BF%D0%BE%D1%80%D1%82)"] {
+  color: purple;
+}
